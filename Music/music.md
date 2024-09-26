@@ -11,7 +11,7 @@
 
 - **Middle Ages** - The Middle Ages occurred between 450 and 1450 CE. Aristocratic courts and churches frequently used music in the Middle Ages, and there is evidence of music notation from this time. Popular songs for entertainment focused on religion, love, and current events. Many musical compositions from the Middle Ages used monophony or a single melodic line.
 
-  ![musicimg](imgmusic.jpg)
+![imgmusic](https://github.com/user-attachments/assets/11e6e22b-c910-4a4f-84b7-43f68058a766)
 
 - **Renaissance** - During the Renaissance, or ''rebirth,'' of the late 1400s through the early 1600s, Gutenberg invented an efficient printing press, which allowed for the printing of music. In contrast with the monophony of Medieval music, Renaissance music was typically polyphonous and featured at least two 
 independent melodic lines.
