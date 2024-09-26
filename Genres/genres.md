@@ -3,10 +3,10 @@
 
 
 ### Sub Topic:
-| [Regional Mexican](Regional-Mexican.md)| |
-|--------|------|
-| [Jazz](Jazz.md) | |
-| [Jazz](Jazz.md) | |
+| [Regional Mexican](Regional-Mexican.md)|
+|--------|
+| [Jazz](Jazz.md) |
+| [Jazz](Jazz.md) |
 | [Latin Pop](Latin-Pop.md) |
 ___
 
