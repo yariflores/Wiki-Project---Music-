@@ -2,7 +2,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 
 # Instruments
-![instruments](instruments.webp)
+![instruments](https://github.com/user-attachments/assets/c48f316b-22e2-4d21-91b8-736235aee3ea)
 
 ## What are instruments?
 > A musical instrument is a device created or adapted to make musical sounds. In principle, any object that produces sound can be considered a musical instrument—it is through purpose that the object becomes a musical instrument. A person who plays a musical instrument is known as an instrumentalist.
