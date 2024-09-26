@@ -3,9 +3,11 @@
 
 
 ### Sub Topic:
-- ### [Regional Mexican](Regional-Mexican.md)
-- ### [Jazz](Jazz.md)
-- ### [Latin Pop](Latin-Pop.md)
+| [Regional Mexican](Regional-Mexican.md)| |
+|--------|------|
+| [Jazz](Jazz.md) | |
+| [Jazz](Jazz.md) | |
+| [Latin Pop](Latin-Pop.md) |
 ___
 
 ## What is a music genre?
