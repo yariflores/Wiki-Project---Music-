@@ -4,9 +4,9 @@
 
 | Sub Topic: |
 |-------|
-| [Regional Mexican](Regional-Mexican.md)| 
-| [Jazz](Jazz.md) |
-| [Latin Pop](Latin-Pop.md) |
+| [Regional Mexican](regional-mexican.md)| 
+| [Jazz](jazz.md) |
+| [Latin Pop](latin-pop.md) |
 
 | Related Topics |
 | --- |
