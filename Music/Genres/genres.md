@@ -19,7 +19,7 @@ ___
 
 | Genre | Explination|
 | ---------------| --------|
-| Jazz | Originated in the African-American communities of New Orleans, Louisiana, in the late 19th and early 20th centuries, with its roots in blues, ragtime, European harmony and African rhythmic rituals. |
+| Jazz | Is a broad style of music characterized by complex harmony, syncopated rhythms, and a heavy emphasis on improvisation. |
 | Cumbia | Cumbia sonidera is a recent variant of Mexican Cumbia, it emerges as the combination of Colombian cumbia, adapted and recorded by Mexican groups mixing it with the sounds and electronic effects of DJs. |
 ___
 
