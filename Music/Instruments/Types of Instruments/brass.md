@@ -8,7 +8,7 @@
 ## Types of Brass Instruments
 | Name | Images |
 | ---- | ------ |
-| Trumpet | 
-| Trombone | 
-| Tuba |
-| French Horn | 
+| Trumpet | ![trumpet](https://github.com/user-attachments/assets/b2cbf1fa-ea52-4a3b-b2d6-031cbb8a7b9a) |
+| Trombone | ![trombone](https://github.com/user-attachments/assets/a5e52fb1-e323-44fb-9c5a-b97c3fecfaa4) |
+| Tuba | ![tuba](https://github.com/user-attachments/assets/44efcb89-41c0-48c3-8673-a86a23112b04) |
+| French Horn | ![french-horn](https://github.com/user-attachments/assets/2096872d-48b7-4412-bc90-99e2505a50b5) |
