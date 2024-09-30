@@ -2,6 +2,19 @@
 |------|
 
 # Keyboard Instruments
+> A keyboard instrument is a musical instrument played using a keyboard, a row of levers which are pressed by the fingers. The most common of these are the piano, organ, and various electronic keyboards, including synthesizers and digital pianos.
 
-### Piano
-Due to its ability to play harmonies and melodies, the piano is an important instrument in many styles of music. It’s also one of the most favorite instruments among youngsters who are learning to play. You can hear its magnificent sounds in many genres: classical, jazz, pop, rock, blues, soul, contemporary, and experimental music, where it is either accompanied or played as a solo instrument. The piano is favored for its ability to add depth to the musical compositions, enrich them with emotional layers, unique textures, and thrilling sounds. This is a perfect instrument to show improvisational skills, as it happens in jazz where pianists are great improvisators. The piano is also present in film soundtracks since it helps the composers evoke different emotions and enhance the cinematic experience.
+| Types | Images |
+| ----- | ------ |
+| Piano | 
+| Accordian | 
+| Organ |
+| Keystar | 
+
+
+### Fun Facts
+1. The first piano was invented by Bartolomeo Cristofori in Italy in 1709.
+2. The first pianos were too expensive for even the very wealthy to own. For nearly a century, only aristocrats and royalty owned pianos.
+3. The word "piano" comes from the Italian "pianoforte," which means "soft-loud," referring to the instrument's ability to produce a wide range of dynamics.
+4. Studies show that learning piano enhances a child's language building skills and overall academic achievement.
+5. The piano is considered both a string and percussion instrument because it produces sound by striking strings with hammers.
