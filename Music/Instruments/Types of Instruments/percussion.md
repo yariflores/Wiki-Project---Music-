@@ -12,4 +12,8 @@
 | Bass drum | 
 
 ### Fun Facts
-
+1. The drum is one of the oldest musical instruments.
+2. Percussion instruments are classified into four main categories.
+3. Cymbals are an integral part of many orchestral compositions.
+4. The djembe is a popular West African drum.
+5. The snare drum is a cornerstone of marching bands.
