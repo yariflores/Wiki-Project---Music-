@@ -12,3 +12,10 @@
 | Trombone | ![trombone](https://github.com/user-attachments/assets/a5e52fb1-e323-44fb-9c5a-b97c3fecfaa4) |
 | Tuba | ![tuba](https://github.com/user-attachments/assets/44efcb89-41c0-48c3-8673-a86a23112b04) |
 | French Horn | ![french-horn](https://github.com/user-attachments/assets/2096872d-48b7-4412-bc90-99e2505a50b5) |
+
+### Fun Facts
+1. Brass is a metal that is yellow in color and is made of copper and zinc. Brass is used for these instruments because it is stronger and harder then copper, but not as strong as steel, so it is easy to form into different shapes.
+2. There are instruments made of brass that do not belong to the brass family, like the saxophone.
+3. Brass instruments have a mouthpiece that the player blows into. Their lips vibrate with the air and that is what creates the sound or pitch. To change the pitch, the player either presses on valves or uses the slide, as in the case of the trombone.
+4. Trumpets date back to around 1500 BC. These trumpets were used for military and religious purposes.
+5. The trombone was introduced to the world in the famous 5th Symphony, by Ludwig van Beethoven.
