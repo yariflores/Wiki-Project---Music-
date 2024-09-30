@@ -30,3 +30,5 @@ justin bieber
 selena gomez
 
 p diddy lawsuit
+
+FAMOUS LYRICS QUOTE
