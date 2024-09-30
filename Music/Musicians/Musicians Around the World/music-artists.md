@@ -1,7 +1,7 @@
 | [Musicians](musicians.md) |
 | ----- |
 
-# American Musicians & Artisits
+# Famous Music Artists
 
 louis armstrong
 
