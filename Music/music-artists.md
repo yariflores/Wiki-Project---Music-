@@ -28,7 +28,8 @@
 
 Multitalented singer-songwriter and global superstar who has captivated audiences with her heartfelt lyrics and catchy melodies, solidifying herself as one of the most influential artists in contemporary music. Swift showed an interest in music at an early age, and she progressed quickly from roles in children’s theater to her first appearance before a crowd of thousands. She was age 11 when she sang “The Star-Spangled Banner” before a Philadelphia 76ers basketball game, and the following year she picked up the guitar and began to write songs. Taking her inspiration from country music artists such as Shania Twain and the Dixie Chicks (now the Chicks), Swift crafted original material that reflected her experiences of tween alienation. When she was 13, Swift’s parents sold their farm in Pennsylvania to move to Hendersonville, Tennessee, so she could devote more of her time to courting country labels in nearby Nashville.
 
-![taylor-2](https://github.com/user-attachments/assets/b5c22042-fb46-430d-858b-fff4b2be363d)/
+![taylor-2](https://github.com/user-attachments/assets/b5c22042-fb46-430d-858b-fff4b2be363d)
+
 *Quote from Taylow Swift's song "Breathe"*
 _______________
 ### **Sabrina Carpenter**
@@ -42,6 +43,7 @@ _______________
 ![hailey-justin-selena (1)](https://github.com/user-attachments/assets/0a52ed94-fd40-4f57-ae88-70b7e30b14ee)
 
 What began as accusations that Hailey “stole” Justin from Gomez quickly spiraled out of control as social media users picked apart every post made by these grown women in search of proof of their feud or of Hailey Baldwin’s alleged obsession with Jelena. No matter what either woman did to shut down the online hate—including posing together at an event in October 2022—fans continued to speculate for years. 
+Many thought the drama started because Hailey was jealous of Selena and Justin's former relationship, and others thought it was because they just simply don't get along. It began when fans assumed Hailey was throwing shade at Selena with a TikTok she posted and then quickly deleted.
 
 ### Christian Nodal: La Mejor Amiga Vs. La Novia
 ![nodal-angela-cazzu (1)](https://github.com/user-attachments/assets/d3f3c2cb-310f-4fae-9332-8ff2e035931c)
