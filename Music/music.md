@@ -1,4 +1,4 @@
-| [Music](music.md) | [Genres](genres.md) | [Pop Culture](popculture.md) |  [Musicians](musicians.md) | [Instruments](instruments.md) | [Dance](dance.md) |
+| [Music](music.md) | [Genres](genres.md) | [Pop Culture](pop-culture.md) |  [Musicians](musicians.md) | [Instruments](instruments.md) | [Dance](dance.md) |
 | --- | --- | --- | --- | --- | --- |
 # History
 
