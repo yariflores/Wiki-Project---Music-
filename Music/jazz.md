@@ -11,7 +11,7 @@
 
 ## FUN FACT
 
-### A symbiotic relationship
+### Jazz symbiotic relationship
 > Authentic Jazz dance is intimately tied to the music and changes as the musical styles and patterns change. One cannot dance a '20s Charleston to a swinging Lionel Hampton track, for example.While we cannot be sure which came first, musicians and dancers rehearsed and worked together developing their art in a symbiotic way. The cutting contests and jam sessions between jazz musicians, for example, is reflected in the jam circles of social dancers.However, when jazz moved away from the dance focus of the swing era to the ‘bebop’ or ‘modern’ era, the social dances could not follow. The complexities and subtleties of partnered and rhythm dancing of the jazz swing-era were lost to the simplistic, if fun, Jive, Rock 'n' Roll, Twist and increasingly solo styles.
 
 ## **Styles of Jazz Dance**
