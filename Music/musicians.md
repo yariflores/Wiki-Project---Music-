@@ -1,5 +1,5 @@
 | [Music](music.md) | [Genres](genres.md) | [Pop Culture](popculture.md) |  [Musicians](musicians.md) | [Instruments](instruments.md) | [Dance](dance.md) |
-| --- | --- | --- | --- | --- | --- | 
+| --- | --- | --- | --- | --- | --- |
 
 # Musicians & Artists
 ![musicians](https://github.com/user-attachments/assets/c647c472-7094-44fd-a769-0838b51dbbab)
