@@ -7,6 +7,25 @@
 A musician is one who composes, conducts, or performs music. According to the United States Employment Service, "musician" is a general term used to designate a person who follows music as a profession.
 
 ## Types of Musicians
+**Vocalist**
+A singer who performs in a group or solo, in genres like pop, jazz, or a capella. 
+**Composer**
+A musician who creates the instrumental version of a song or album by arranging notes, beats, and sound bites. 
+**Conductor**
+A musician who leads and directs orchestras, choirs, or other musical ensembles by interpreting the musical score and guiding the musicians. 
+**Session musician**
+A highly skilled musician who is hired to contribute to a song in the studio or during a live performance. 
+**Percussionist**
+A musician who specializes in playing instruments that create sound by striking another object. 
+**Pianist**
+A musician who specializes in playing the piano. 
+**Songwriter**
+A musician who creates melodies and lyrics for songs, and may also perform the songs they write. 
+**Bassist**
+A musician who plays a bass guitar or double bass, depending on the genre of music and the type of orchestra. 
+**DJ**
+A musician who creates and mixes music for live performances and recordings, using turntables, DJ software, and other electronic equipment. 
+
 ## Skills Needed to be a Musician
 1. Musicality: Being able to appreciate and understand different styles and genres of music, as well as having a good ear for pitch and rhythm.
 2. Technical Ability: Being able to play an instrument and knowing how to read music and understand music theory.
