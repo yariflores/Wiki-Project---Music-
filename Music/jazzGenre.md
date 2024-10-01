@@ -1,11 +1,6 @@
-| [Music](music.md) | [Pop Culture](pop-culutre)| [Musicians](musicians.md) | [Instruments](instruments.md) | [Dance](dance.md) | [Genre](genres.md) |
-| -------- | ------- | ------- | ------ | -------- |---|
 
-
-| Sub Topic: |
-|-------|
-| [Regional Mexican](regional-mexican.md)| 
-| [Latin Pop](latin-pop.md) |
+| [Regional Mexican](regional-mexican.md)| [Latin Pop](latin-pop.md) |
+|----- | ---- |
 
 ---
 
