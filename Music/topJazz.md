@@ -1,10 +1,5 @@
-| [Music](music.md) |[Musicians](musicians.md) | [Instruments](instruments.md) | [Dance](dance.md) | [Genre](genres.md) | [Pop Culture](pop-culture.md) |
-| -------- | ------- |------ | -------- |---| --- |
-
-| Sub Topics:|
-|------------|
-| [ Top Regional Mexican](popRegionalMX.md) |
-| [ Top Latin Pop Songs](popLatinPop.md) |
+| [ Top Regional Mexican](popRegionalMX.md) | [ Top Latin Pop Songs](popLatinPop.md) | [Pop Culture](pop-culture.md) |
+| --------- | -------- | -------- |
 
 
 ## Popular Jazz songs:
