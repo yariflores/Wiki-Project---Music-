@@ -22,6 +22,17 @@
 
 ![cartoon people with 4 people playing jazz](jazz2.jpeg )
 
+### Timeline:
+| Date | description |
+| ---- | ----------- |
+| 1920's : Early Jazz / New Orleans | The tresillo rhythm is heavily used in the New Orleans Jazz of this time and can be directly linked to the music of the Caribbean. |
+| 1930's : Swing and big band | By the 1930s, rules of segregation began to relax and the mixing of races in big bands became more commonplace. Along with the end of prohibition, this caused jazz to come out of the dark and onto the big stage and mainstream. |
+| 1940's : Bebop | This new phase in jazz was started by the younger generation and became synonymous with "hipster" culture of the time. There was more focus on smaller ensembles that started to use the rhythm section in new ways. |
+| Late 1940s-1950s : Cool Jazz |  It could be said that the intensity of the war was reflected in its music (bebop) and the development of cool Jazz was simply an evolution or thirst for a more relaxed sound. |
+| Late 1950s-1960s : Hard bop/modal jazz/Latin jazz and Brazilian | The hard bop era of jazz was a partial return to the fast tempos and angular nature of bebop, fused with a heavy gospel influence and incorporation of African and Latin rhythms. |
+| Late 1960s-70s : Avant garde/fusion | the use of electric instruments and rebellion of what was considered jazz began to expand quickly. |
+| 1980s to present |  Jazz continues to evolve and reflect both the sociopolitical and musical trends of the time. Jazz continues to borrow elements from other styles of music ranging from classical to hip Hop and electronic music. The styles and traditions of past eras of jazz can still be heard in their traditional forms as well as borrowed from and re-contextualized and revamped. |
+
 
 ## Some Jazz Songs:
 
