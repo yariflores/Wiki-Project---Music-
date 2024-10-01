@@ -3,7 +3,7 @@
 
 --- 
 
-## What is Pop Culture?
+> ## What is Pop Culture?
 ### American popular music (also referred to as "American Pop") is popular music produced in the United States and is a part of American pop culture. Distinctive styles of American popular music emerged early in the 19th century, and in the 20th century the American music industry developed a series of new forms of music, using elements of blues and other genres. These popular styles included country, R&B, jazz and rock. The 1960s and 1970s saw a number of important changes in American popular music, including the development of a number of new styles, such as heavy metal, punk, soul, and hip hop.
 
 ![Image of different music artist](popculture.jpeg )
