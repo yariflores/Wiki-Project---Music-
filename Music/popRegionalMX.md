@@ -10,6 +10,8 @@
 
 ### On Spotify, Mexican music grew 400% worldwide over the last five years, according to Uriel Waizel, lead editor at Spotify Mexico. And on YouTube, Peso Pluma bested Taylor Swift and Bad Bunny to become 2023’s most streamed artist on the platform.
 
+![Regional Mexican Artists](regionalMX2.webp)]
+
 > ## A MOVEMENT, NOT A MOMENT
 ### For Grammy-winning producer Édgar Barrera, to understand regional Mexican music, listeners must first understand that “it is a movement” finally having its “moment to shine globally,” because regional Mexican artists now encompass a variety of genres and sounds.
 
