@@ -4,7 +4,7 @@
 
 | Sub Topic: |
 |-------|
-| [Jazz](jazz.md) |
+| [Jazz](jazzGenre.md) |
 | [Latin Pop](latin-pop.md) |
 
 ___
