@@ -5,7 +5,6 @@
 |------------|
 | [ Top Latin Pop](popLatinPop.md) |
 | [ Top Jazz Songs](topJazz.md) |
-|
 
 
 ## Popular Regional Mexican songs:
