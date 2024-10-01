@@ -36,12 +36,12 @@
 
 ## Drama in the Music Industry: Love Triangles
 
-### Selena Gomez VS Hailey Baldwin for the Golden Bieber
+### Selena Gomez Vs. Hailey Baldwin for -> Golden Bieber
 ![Selena-and-hailey](https://media.glamour.com/photos/63f7cf6c06b05dea3af53174/master/w_2560%2Cc_limit/Selena%2520Gomez%2C%2520Hailey%2520Bieber%2520(1).jpg)
 
 > What began as accusations that Hailey “stole” Justin from Gomez quickly spiraled out of control as social media users picked apart every post made by these grown women in search of proof of their feud or of Hailey Baldwin’s alleged obsession with Jelena. No matter what either woman did to shut down the online hate—including posing together at an event in October 2022—fans continued to speculate for years. 
 
-### La Mejor Amiga VS La Novia for the Nodal
+### La Mejor Amiga Vs. La Novia for -> Nodal
 
 p diddy lawsuit
 
