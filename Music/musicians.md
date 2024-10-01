@@ -19,6 +19,7 @@ A musician is one who composes, conducts, or performs music. According to the Un
 | **Bassist** | A musician who plays a bass guitar or double bass, depending on the genre of music and the type of orchestra. | 
 | **DJ** | A musician who creates and mixes music for live performances and recordings, using turntables, DJ software, and other electronic equipment. |
 
+![notes](https://github.com/user-attachments/assets/81dc58de-f7e0-4bf7-a800-4e5bf54153ba)
 ## Skills Needed to be a Musician
 1. Musicality: Being able to appreciate and understand different styles and genres of music, as well as having a good ear for pitch and rhythm.
 2. Technical Ability: Being able to play an instrument and knowing how to read music and understand music theory.
