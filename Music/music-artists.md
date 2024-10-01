@@ -27,7 +27,8 @@
 ![taylor-swift (1)](https://github.com/user-attachments/assets/8ca9d6b0-af5d-4008-80d7-a4803d07ca32)
 > multitalented singer-songwriter and global superstar who has captivated audiences with her heartfelt lyrics and catchy melodies, solidifying herself as one of the most influential artists in contemporary music.
 
-![taylor-quote](https://www.yourtango.com/sites/default/files/image_blog/2024-09/taylor-swift-quotes-lyrics-friendship.png)
+![taylor-2](https://github.com/user-attachments/assets/b5c22042-fb46-430d-858b-fff4b2be363d)
+
 -------------
 ### **Sabrina Carpenter**
 ![sabrina-2](https://github.com/user-attachments/assets/9fa20260-c838-4223-b210-8642ddc22d15)
