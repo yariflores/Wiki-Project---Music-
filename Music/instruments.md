@@ -1,5 +1,5 @@
-| [Music](music.md) | [History](history.md) | [Genres](genres.md) | [Pop Culture](popculture.md) |  [Musicians](musicians.md) | [Instruments](instruments.md) | [Dance](dance.md) |
-| --- | --- | --- | --- | --- | --- | --- |
+| [Music](music.md) | [Genres](genres.md) | [Pop Culture](popculture.md) |  [Musicians](musicians.md) | [Instruments](instruments.md) | [Dance](dance.md) |
+| --- | --- | --- | --- | --- | --- |
 
 # Instruments
 ![instruments](https://github.com/user-attachments/assets/c48f316b-22e2-4d21-91b8-736235aee3ea)
