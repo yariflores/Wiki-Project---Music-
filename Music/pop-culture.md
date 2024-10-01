@@ -1,4 +1,4 @@
-| [Music](music.md) |[Musicians](musicians.md) | [Instruments](instruments.md) | [Dance](dance.md) | [Genre](genres.md) |
+| [Music](music.md) | [Genre](genres.md)| [Musicians](musicians.md) | [Instruments](instruments.md) | [Dance](dance.md) |
 | -------- | ------- |------ | -------- |---|
 
 | Sub Topics:|
