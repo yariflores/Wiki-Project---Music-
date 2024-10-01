@@ -1,5 +1,5 @@
-| [Dance](dance.md)    | [Ballet](ballet.md)   | [Ballroom](ballroom.md) | [BreakDancing](breakdancing.md) | [Bachata](bachata.md)    | [Jarabe Tapatio](jarabeTapatio.md)  |
-| -------- |-------| -----| -------- |-------| -----|
+| [Dance](dance.md)    | [Ballet](ballet.md)   | [Ballroom](ballroom.md) | [BreakDancing](breakdancing.md) | [Bachata](bachata.md)    | [Jarabe Tapatio](jarabeTapatio.md)  | [Jazz Genres](jazzGenre.md)
+| -------- |-------| -----| -------- |-------| -----|----|
 
 # **Jazz**
 
