@@ -14,7 +14,7 @@
 
 - **The Dominican Bachata** is the truest form in that it is danced according to the original style. Typically, the traditional Bachata does not require a lot of turn patterns, and incorporates many free style movements that are not seen in the more structured Bachata styles. Also, Dominican Bachata has a good deal of footwork, and a bouncy feel to it.
 
-    ![dance](dominieana.jpg)
+    ![dominieana](https://github.com/user-attachments/assets/2e38d18c-3051-479d-9b77-3c280fcfd8b4)
 
 - **Bachata Moderna**, otherwise known as Modern Style, is the newest form of Bachata. It retains some of the traditional Bachata elements, but it is also heavily influenced by Tango and Bolero, among other Latin dance forms. The Modern Style relies heavily on crosses, but it does keep the typical Bachata hip movement on each four count.
 
