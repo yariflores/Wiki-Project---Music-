@@ -15,6 +15,12 @@
 
 ### He cites the cumbias of Grupo Frontera and the corridos tumbados of Peso Pluma, both with very different lyrical approaches: “And they are doing numbers that the American artists are doing.”
 
+### Artists like Frontera, Fuerza Regida and Junior H are selling out “the same venues that Drake goes to a week later,” he says.
+
+### Barrera believes part of the cross-border appeal is that these regional Mexican genres are founded in live instrumental performance — guitars, tubas, trombones, trumpets and more.
+
+### “They are real musicians, they are people making real music, not a computer where you are programming or grabbing something from a sound library,” he says.
+
 ## Popular Regional Mexican songs:
 - ### Ivan Cornejo’s “Está Dañada”
     - #### On the Hot 100: No. 61 peak, Oct. 23, 2021
