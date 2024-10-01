@@ -21,26 +21,32 @@ ___
 
 - ### 1970s – 1980s: Popularity of Mariachi
     - This style began to increasingly spread into the United States. Many popular mariachi singers during this time include Vicente Fernández and  Juan Gabriel.
+    - Mariachi music became more popular in the United States in the 1970s as it spread into the country from Mexico. Mariachi music was featured in churches and schools, and at concerts, festivals, and conferences.
 
     ![Image of Ficente Fernandes](vicenteFernandes.jpeg )
 
 - ### 1990s: Rise of Several Subgenres
     - The grupero genre became one of the most popular regional Mexican genres in the United States due to its unique use of electric guitars, keyboard, and drums.
+    -  The narcocorrido subgenre, which glorifies drug traffickers, also became popular, with artists like Los Tigres del Norte and Chalino Sánchez helping to make it popular.
 
     ![Image of Selena Quintanilla](selena.jpeg )
 
 - ### 2000s: Duranguense and Tierra Caliente sounds
     - Mexican artists continued to release music including California-based norteño band Los Tigres de Norte, a band that has released music since the 1970s. That same decade, some new regional Mexican groups were formed, including Sinaloan banda group Banda MS.
+    - Tierra Caliente music originated in the late 20th century in Mexico's Tierra Caliente region.
+    -  Duranguense is a hybrid of Technobanda and Tamborazo.
 
     ![Image of Banda MS](bandaMS.jpeg )
 
 - ### 2010s: Heavy Sinaloan Influence
     - Norteño-Banda, also known as norteño with tuba, had its most successful run during the early to mid 2010s with artists such as Larry Hernández, Gerardo Ortíz, Calibre 50, and Voz de Mando.
+    - The 2010s gave a  rise to regional Mexican music, the emergence of the altered corridos subgenre, and the popularity of corridos tumbados.
 
     ![Image of Calibre 50](calibre50.jpeg )
 
 - ### 2020s: Global Resurgence
     - According to Spotify in 2022, Mexican music streams more than doubled since 2019 to reach 5.6 billion. The format had 150 U.S. radio stations. Some of the most listened to regional Mexican artists in the 2020s include Peso Pluma, Natanael Cano, Junior H, Grupo Frontera, Banda MS, Iván Cornejo, and Grupo Firme.
+    - The regional Mexican genre had a global resurgence steadily topping charts and becoming more listened to
 
 ![Image of Grupo Frontera](grupoFrontera.jpeg )
 
@@ -63,6 +69,24 @@ ___
 ### The 2024 Latin GRAMMYs, artists will compete in two new Categories this year, including Best Contemporary Mexican Music Album.
 
 ### The new Category, housed within the Regional Mexican Field, highlights six albums showcasing a rich diversity of Mexican genres. This year’s nominees are Nata Montana by Natanael Cano, DannyLux’s Evoluxion, *Jugando A Que No Pasa Nada from Grupo Frontera*, Carín León’s Boca Chueca, Vol. 1, Trastornado by Michelle Maciel, and Peso Pluma’s Génesis. The Best Contemporary Mexican Music Album Category reflects the worldwide spread and evolution of Mexican music, and its inaugural nominees embody a generation transforming traditional Mexican sounds and expanding the genre's legacy far and wide.
+
+## Rise of Regional Mexican Music
+#### Leila Cobo, Billboard’s chief content officer for Latin music coverage, always believed Mexican music was going to be huge in the U.S., given its large Mexican American population.
+#### “But I never, in a million years, thought it was going to become so global,” she says.
+
+#### For Cobo, one of the factors contributing to regional Mexican music’s global reach is streaming, which democratized listening habits and allowed listeners who might not otherwise come across this music to fall in love with it.
+
+#### On Spotify, Mexican music grew 400% worldwide over the last five years, according to Uriel Waizel, lead editor at Spotify Mexico. And on YouTube, Peso Pluma bested Taylor Swift and Bad Bunny to become 2023’s most streamed artist on the platform.
+
+### A MOVEMENT, NOT A MOMENT
+#### For Grammy-winning producer Édgar Barrera, to understand regional Mexican music, listeners must first understand that “it is a movement” finally having its “moment to shine globally,” because regional Mexican artists now encompass a variety of genres and sounds.
+
+#### He cites the cumbias of Grupo Frontera and the corridos tumbados of Peso Pluma, both with very different lyrical approaches: “And they are doing numbers that the American artists are doing.”
+#### Artists like Frontera, Fuerza Regida and Junior H are selling out “the same venues that Drake goes to a week later,” he says.
+
+#### Barrera believes part of the cross-border appeal is that these regional Mexican genres are founded in live instrumental performance — guitars, tubas, trombones, trumpets and more.
+
+#### “They are real musicians, they are people making real music, not a computer where you are programming or grabbing something from a sound library,” he says.
 
 ---
 
