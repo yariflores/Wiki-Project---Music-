@@ -8,9 +8,6 @@
 | [Jazz](jazz.md) |
 | [Latin Pop](latin-pop.md) |
 
-| Related Topics |
-| --- |
-| [Musicians](musicians.md) | 
 ___
 
 > ## What is a music genre?
