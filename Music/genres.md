@@ -1,4 +1,4 @@
-| [Music](music.md) | [Pop Culture](pop-culutre)| [Musicians](musicians.md) | [Instruments](instruments.md) | [Dance](dance.md) |
+| [Music](music.md) | [Pop Culture](pop-culture)| [Musicians](musicians.md) | [Instruments](instruments.md) | [Dance](dance.md) |
 | -------- | ------- | ------- | ------ | -------- |
 
 
