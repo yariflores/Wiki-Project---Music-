@@ -29,7 +29,7 @@
 
 - ### Carin Leon & Grupo Frontera's "Que Vuelas"
     - #### On the Hot 100: No. 83 debut, Jan. 7, 2023
-[![Watch the video](carinleon.webp)]((https://www.youtube.com/watch?v=gG3516BF5_w)
+[![Watch the video](carinleon.webp)](https://www.youtube.com/watch?v=gG3516BF5_w)
 
 ---
 
