@@ -28,7 +28,7 @@
 
 Multitalented singer-songwriter and global superstar who has captivated audiences with her heartfelt lyrics and catchy melodies, solidifying herself as one of the most influential artists in contemporary music. Swift showed an interest in music at an early age, and she progressed quickly from roles in children’s theater to her first appearance before a crowd of thousands. She was age 11 when she sang “The Star-Spangled Banner” before a Philadelphia 76ers basketball game, and the following year she picked up the guitar and began to write songs. Taking her inspiration from country music artists such as Shania Twain and the Dixie Chicks (now the Chicks), Swift crafted original material that reflected her experiences of tween alienation. When she was 13, Swift’s parents sold their farm in Pennsylvania to move to Hendersonville, Tennessee, so she could devote more of her time to courting country labels in nearby Nashville.
 
-![taylor-2](https://github.com/user-attachments/assets/b5c22042-fb46-430d-858b-fff4b2be363d)
+![taylor-2](https://github.com/user-attachments/assets/b5c22042-fb46-430d-858b-fff4b2be363d)/
 *Quote from Taylow Swift's song "Breathe"*
 _______________
 ### **Sabrina Carpenter**
