@@ -1,6 +1,5 @@
-| [Music](music.md) |
-
-
+| [Dance](dance.md)    | [Instruments](ballet.md)   | [Musicians](ballroom.md) | [Pop Culture](breakdancing.md) | [Genres](jazz.md)    | 
+| -------- |-------| -----| -------- |-------| 
 # History
 
 ## **Music**  
