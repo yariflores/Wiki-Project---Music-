@@ -24,7 +24,7 @@
 ## ***Highlights***
 
 ### **Taylor Swift**
-![taylor-swift](https://github.com/user-attachments/assets/332f1c22-70cd-4fdd-8cb3-1f56a7cd26d0)
+![taylor-swift (1)](https://github.com/user-attachments/assets/8ca9d6b0-af5d-4008-80d7-a4803d07ca32)
 > multitalented singer-songwriter and global superstar who has captivated audiences with her heartfelt lyrics and catchy melodies, solidifying herself as one of the most influential artists in contemporary music.
 
 ![taylor-quote](https://www.yourtango.com/sites/default/files/image_blog/2024-09/taylor-swift-quotes-lyrics-friendship.png)
