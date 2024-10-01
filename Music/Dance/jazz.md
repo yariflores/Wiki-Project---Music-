@@ -5,7 +5,8 @@
 
 > Origins of Jazz dance can be traced all the way back to the first years of the arrival of African slaves to the shores of Central and North America. Dances and music they brought were much more free-flowing, experimental and improvisational than traditional dances that were brought to North America by European immigrants. These heavily rhythmic-based and tribal dances had a feature that was described by historians and music experts as almost “conversation-like” qualities, in which both the dancers and music players reacted one to another, creating free-flowing music that enchanted them completely.
 
-![jazz](jazzdance.jpg)
+![jazz1](https://github.com/user-attachments/assets/649a33a1-5927-4859-9623-fe9de462a174)
+
 
 
 ## FUN FACT
