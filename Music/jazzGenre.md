@@ -1,6 +1,6 @@
 
-| [Regional Mexican](regional-mexican.md)| [Latin Pop](latin-pop.md) |
-|----- | ---- |
+| [Regional Mexican](regional-mexican.md)| [Latin Pop](latin-pop.md) | [Genre](genres.md) |
+|----- | ---- | ------- |
 
 ---
 
