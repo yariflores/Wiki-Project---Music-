@@ -42,7 +42,7 @@
 > What began as accusations that Hailey “stole” Justin from Gomez quickly spiraled out of control as social media users picked apart every post made by these grown women in search of proof of their feud or of Hailey Baldwin’s alleged obsession with Jelena. No matter what either woman did to shut down the online hate—including posing together at an event in October 2022—fans continued to speculate for years. 
 
 ### Christian Nodal: La Mejor Amiga Vs. La Novia
-![nodal-angela-cazzu](https://github.com/user-attachments/assets/7f4489f1-20fe-4a0e-9ec7-da7776d4a569)
+![nodal-angela-cazzu (1)](https://github.com/user-attachments/assets/d3f3c2cb-310f-4fae-9332-8ff2e035931c)
 
 **Collaboration:** Nodal and Aguilar released a collaborative ranchera song called "Dime Cómo Quieres" during the pandemic. The song is about Nodal's feelings for Aguilar, who isn't easily impressed by his gestures. 
 
