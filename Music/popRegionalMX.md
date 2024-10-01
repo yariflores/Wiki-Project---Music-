@@ -1,6 +1,20 @@
 | [ Top Latin Pop](popLatinPop.md) | [ Top Jazz Songs](topJazz.md) | [Pop Culture](pop-culture.md) |
 | ---------- | --------- | -------- |
 
+## Rise on Regional Mexican Songs/ Artist:
+#### Leila Cobo, Billboard’s chief content officer for Latin music coverage, always believed Mexican music was going to be huge in the U.S., given its large Mexican American population.
+
+#### “But I never, in a million years, thought it was going to become so global,” she says.
+
+#### For Cobo, one of the factors contributing to regional Mexican music’s global reach is streaming, which democratized listening habits and allowed listeners who might not otherwise come across this music to fall in love with it.
+
+#### On Spotify, Mexican music grew 400% worldwide over the last five years, according to Uriel Waizel, lead editor at Spotify Mexico. And on YouTube, Peso Pluma bested Taylor Swift and Bad Bunny to become 2023’s most streamed artist on the platform.
+
+## A MOVEMENT, NOT A MOMENT
+#### For Grammy-winning producer Édgar Barrera, to understand regional Mexican music, listeners must first understand that “it is a movement” finally having its “moment to shine globally,” because regional Mexican artists now encompass a variety of genres and sounds.
+
+#### He cites the cumbias of Grupo Frontera and the corridos tumbados of Peso Pluma, both with very different lyrical approaches: “And they are doing numbers that the American artists are doing.”
+
 ## Popular Regional Mexican songs:
 - ### Ivan Cornejo’s “Está Dañada”
     - #### On the Hot 100: No. 61 peak, Oct. 23, 2021
@@ -46,3 +60,4 @@
 
 ### Sources:
 - https://www.billboard.com/lists/regional-mexican-song-billboard-hot-100-chart/fuerza-regida-natanael-cano-ch-y-la-pizza/
+- https://apnews.com/article/regional-mexican-music-grammys-3d2093f2dd3775912a0d3c95df1e2aa4
