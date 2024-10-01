@@ -37,22 +37,22 @@
 ## Drama in the Music Industry: Love Triangles
 
 ### Justin Bieber: Selena Gomez Vs. Hailey Baldwin
-![hailey-justin-selena](https://github.com/user-attachments/assets/af083266-e8a0-4092-8f45-4a525ffcd35e)
+![hailey-justin-selena (1)](https://github.com/user-attachments/assets/0a52ed94-fd40-4f57-ae88-70b7e30b14ee)
 
 > What began as accusations that Hailey “stole” Justin from Gomez quickly spiraled out of control as social media users picked apart every post made by these grown women in search of proof of their feud or of Hailey Baldwin’s alleged obsession with Jelena. No matter what either woman did to shut down the online hate—including posing together at an event in October 2022—fans continued to speculate for years. 
 
 ### Christian Nodal: La Mejor Amiga Vs. La Novia
 ![nodal-angela-cazzu](https://github.com/user-attachments/assets/7f4489f1-20fe-4a0e-9ec7-da7776d4a569)
 
-Collaboration: Nodal and Aguilar released a collaborative ranchera song called "Dime Cómo Quieres" during the pandemic. The song is about Nodal's feelings for Aguilar, who isn't easily impressed by his gestures. 
+**Collaboration:** Nodal and Aguilar released a collaborative ranchera song called "Dime Cómo Quieres" during the pandemic. The song is about Nodal's feelings for Aguilar, who isn't easily impressed by his gestures. 
 
-Relationship confirmation: In June 2024, Nodal and Aguilar confirmed their relationship in an interview with HOLA!. They said that their relationship was a continuation of a story that life paused so they could grow and miss each other. 
+**Relationship confirmation:** In June 2024, Nodal and Aguilar confirmed their relationship in an interview with HOLA!. They said that their relationship was a continuation of a story that life paused so they could grow and miss each other. 
 
-Performance together: Aguilar was a special guest at one of Nodal's Mexico City concerts, where they performed together and shared a kiss. 
+**Performance together:** Aguilar was a special guest at one of Nodal's Mexico City concerts, where they performed together and shared a kiss. 
 
-Argument: Aguilar had an argument with Nodal when she left for her "Pa'l cora" tour in the U.S. Nodal was upset that she left for the tour, which coincided with the opening date of his performance in Seattle. 
+**Argument:** Aguilar had an argument with Nodal when she left for her "Pa'l cora" tour in the U.S. Nodal was upset that she left for the tour, which coincided with the opening date of his performance in Seattle. 
 
-Marriage: Nodal and Aguilar married in a private ceremony in Mexico. 
+**Marriage:** Nodal and Aguilar married in a private ceremony in Mexico. 
 
 ##### *Famous Angela Quotes*
 "Soy fan de su relacion" - *"I'm a fan of your relationship"*
