@@ -6,9 +6,14 @@
 > The music of the 21st century is mostly post-modernist, drawing on many different styles and open to a great many influences. Yet it is still a struggle to encourage the public to listen to contemporary music.
 
 ## POPULAR NOW
-**Taylor Swift**: multitalented singer-songwriter and global superstar who has captivated audiences with her heartfelt lyrics and catchy melodies, solidifying herself as one of the most influential artists in contemporary music.
 
-**Sabrina Carpenter**: Following the release of “Drivers License” in January 2021, the High School Musical: The Musical: The Series actress seemingly started the first love triangle of 2021, and the internet was shook. At the time, fans were convinced that the songstress shaded her rumored ex-boyfriend and costar, and his new girlfriend, Sabrina. Although their relationship was never confirmed, HSMTMTS viewers were convinced that Olivia and Joshua were more than friends when the show premiered in November 2019. With “Drivers License,” the former Disney Channel star dropped a few hints that things were less than perfect between her and Joshua.
+**Taylor Swift**
+![taylor-swift](https://github.com/user-attachments/assets/332f1c22-70cd-4fdd-8cb3-1f56a7cd26d0)
+> multitalented singer-songwriter and global superstar who has captivated audiences with her heartfelt lyrics and catchy melodies, solidifying herself as one of the most influential artists in contemporary music.
+[tolerate it](https://open.spotify.com/track/3poSxEb3c3s4Hwy2RbwMc6?si=a84ddd5310854b88)
+
+**Sabrina Carpenter**
+> Following the release of “Drivers License” in January 2021, the High School Musical: The Musical: The Series actress seemingly started the first love triangle of 2021, and the internet was shook. At the time, fans were convinced that the songstress shaded her rumored ex-boyfriend and costar, and his new girlfriend, Sabrina. Although their relationship was never confirmed, HSMTMTS viewers were convinced that Olivia and Joshua were more than friends when the show premiered in November 2019. With “Drivers License,” the former Disney Channel star dropped a few hints that things were less than perfect between her and Joshua.
 
 louis armstrong
 
