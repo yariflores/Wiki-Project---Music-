@@ -17,12 +17,12 @@
 
 - **Broadway Jazz** is a style of jazz dance that combines elements of ballet, modern, and jazz. It is characterized by its high energy and upbeat nature which is often accompanied by dynamic musical theater numbers. Broadway Jazz typically involves large jumps, kicks, turns, and isolations with sharp accents. This style of jazz has become increasingly popular due to the growing popularity of musical theater performances such as Wicked and The Lion King.
 
-    ![jazz dance](broadway.jpg)
+    ![jazzdance](https://github.com/user-attachments/assets/4a7c8d7e-447e-409f-a2d1-a148913bf9fa)
 
 - **Contemporary Jazz**  is a style of jazz dance that combines elements of ballet, modern, and jazz. It is characterized by its fluidity and connection to music. Contemporary Jazz often involves intricate footwork, isolations, turns, leaps, and floor work in combination with lyrical movements such as arms and torso. This style of jazz emphasizes the importance of emotion in dance and encourages dancers to explore their own creativity.
 
-    ![contemporary jazz](contemporary.jpg)
+    ![contemporary](https://github.com/user-attachments/assets/e7007474-9829-4289-a64d-553824d10a3b)
 
 - **Funk Jazz**  is a style of jazz dance that combines elements of funk with traditional jazz movements. It is characterized by its fast-paced, rhythmic movements which often involve sharp isolations and body waves. Funk Jazz also utilizes strong footwork techniques such as the “heel drop” and “toe tap” to create a sense of percussive energy. This style of jazz is often seen in hip-hop and street dance performances.
 
-    ![funk jazz](funk.jpg)
+    ![funk](https://github.com/user-attachments/assets/ffc19670-b14b-4e51-9d79-af33558be7e0)
