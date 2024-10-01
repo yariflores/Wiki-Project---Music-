@@ -6,7 +6,7 @@
 ## Definitions and history
 > The term 'ballroom dancing' is derived from the word ball which in turn originates from the Latin word ballare which means 'to dance' (a ball-room being a large room specially designed for such dances). In times past, ballroom dancing was social dancing for the privileged, leaving folk dancing for the lower classes. These boundaries have since become blurred. The definition of ballroom dance also depends on the era: balls have featured popular dances of the day such as the Minuet, Quadrille, Polonaise, Polka, Mazurka, and others, which are now considered to be historical dances.
 
-![ballroompic](ballroom1.jpg)
+![ballroom1](https://github.com/user-attachments/assets/b2898b55-7fce-4538-99da-0d77c51c0125)
 
 
 ### There are several notable ages in the history of Ballroom, including:
@@ -17,4 +17,4 @@
 
 - **Early 20th century** ,Vernon and Irene Castle, early ballroom dance pioneers, c. 1910–18 Modern ballroom dance has its roots early in the 20th century, when several different things happened more or less at the same time. The first was a movement away from the sequence dances towards dances where the couples moved independently. This had been pre-figured by the waltz, which had already made this transition. The second was a wave of popular music, such as jazz. Since dance is to a large extent tied to music, this led to a burst of newly invented dances. There were many dance crazes in the period 1910–1930.
 
-    ![ballroom20](ballroom20.jpg)
+    ![ballroom20](https://github.com/user-attachments/assets/45979cda-fca5-44d3-96ef-9c6a5edec068)
