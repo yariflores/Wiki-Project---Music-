@@ -12,10 +12,10 @@
 
 ### American music, particularly in genres such as hip-hop, pop, and rock, maintains a global presence. Artists like Beyoncé, Taylor Swift, and Kendrick Lamar have massive international followings. The globalization of music streaming platforms like Spotify and Apple Music has made it easier for American artists to reach audiences worldwide.
 
-| Sub Topics:|
+| Top Songs through out the time:|
 |------------|
-| [ Top Latin Pop](popLatinPop.md) |
-| [ Top Jazz Songs](topJazz.md) |
-| [Top Regional Mexican Songs](popRegionalMX.md) |
+| [ Latin Pop](popLatinPop.md) |
+| [ Jazz Songs](topJazz.md) |
+| [ Regional Mexican Songs](popRegionalMX.md) |
 ---
 
