@@ -34,25 +34,14 @@
 > Following the release of “Drivers License” in January 2021, the High School Musical: The Musical: The Series actress seemingly started the first love triangle of 2021, and the internet was shook. At the time, fans were convinced that the songstress shaded her rumored ex-boyfriend and costar, and his new girlfriend, Sabrina. Although their relationship was never confirmed, HSMTMTS viewers were convinced that Olivia and Joshua were more than friends when the show premiered in November 2019. With “Drivers License,” the former Disney Channel star dropped a few hints that things were less than perfect between her and Joshua.
 -----------
 
-## Jelena Drama
+## Drama in the Music Industry: Love Triangles
+
+### Selena Gomez VS Hailey Baldwin for the Golden Bieber
 ![Selena-and-hailey](https://media.glamour.com/photos/63f7cf6c06b05dea3af53174/master/w_2560%2Cc_limit/Selena%2520Gomez%2C%2520Hailey%2520Bieber%2520(1).jpg)
 
 > What began as accusations that Hailey “stole” Justin from Gomez quickly spiraled out of control as social media users picked apart every post made by these grown women in search of proof of their feud or of Hailey Baldwin’s alleged obsession with Jelena. No matter what either woman did to shut down the online hate—including posing together at an event in October 2022—fans continued to speculate for years. 
 
-
-elvis presely
-
-michael jackson
-
-frank sinatra
-
-lady gaga
-
-britney spears
-
-alicia keys
-
-rihanna
+### La Mejor Amiga VS La Novia for the Nodal
 
 p diddy lawsuit
 
