@@ -27,3 +27,5 @@ A musician is one who composes, conducts, or performs music. According to the Un
 4. Creative Ability: Being able to write and arrange music, and work with other musicians to create something unique.
 5. Business Skills: Being able to promote yourself and your music, manage finances, and network.
 6. Discipline: Having the motivation and dedication to practice and improve your skills.
+
+Check out different [music artists](music-artists) and [musicians](famous-musicians.md) to learn more about historical figures and drama of our time!
