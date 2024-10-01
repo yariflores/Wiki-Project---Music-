@@ -9,7 +9,7 @@
 
 ## How breaking amassed media attention and worldwide exposure
 >All through the 1970s, breaking spread throughout the New York City boroughs. Soon promoters and the media started to take notice of the b-boys and b-girls they saw dancing at parties, in parks and in clubs. Breaking then started to get exposure to the world through a number of means and opportunities that the breakers were presented with. In 1982, Rock Steady crew went on the Roxxy European Hip-Hop tour, performing on stages in London and Paris. They also appeared on the popular American talkshow, Letterman, in 1983. The New City Breakers appeared on a TV show pilot called Graffiti Rock in 1984 and performed in Washington D.C. for President Ronald Reagan – during the 1984 Kennedy Center Honors – which was broadcast nationally.B-boys and b-girls also appeared in music videos and Hollywood movies, which greatly increased breaking’s exposure to the world. Classic movies people first saw breaking in were: Flashdance (1983), Breakin’ the Movie (1984) and Beat Street (1984), which opens with an iconic crew battle in the Roxxy club.
-![breakdance20](breakdance20.jpg)
+![breakdance20](https://github.com/user-attachments/assets/457db2bf-e80b-41a4-9f1c-e26bae12e9b0)
 
 ## The basic elements of breaking
 ### The basic elements that make up the dance of breaking and that breakers perform while following the snare of the music are:
