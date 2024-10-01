@@ -1,11 +1,5 @@
-| [Music](music.md) |[Musicians](musicians.md) | [Instruments](instruments.md) | [Dance](dance.md) | [Genre](genres.md) | [Pop Culture](pop-culture.md) |
-| -------- | ------- |------ | -------- |---| --- |
-
-| Sub Topics:|
-|------------|
-| [ Top Latin Pop](popLatinPop.md) |
-| [ Top Jazz Songs](topJazz.md) |
-
+| [ Top Latin Pop](popLatinPop.md) | [ Top Jazz Songs](topJazz.md) | [Pop Culture](pop-culture.md) |
+| ---------- | --------- | -------- |
 
 ## Popular Regional Mexican songs:
 - ### Ivan Cornejo’s “Está Dañada”
