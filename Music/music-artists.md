@@ -30,7 +30,7 @@
 ![taylor-quote](https://www.yourtango.com/sites/default/files/image_blog/2024-09/taylor-swift-quotes-lyrics-friendship.png)
 -------------
 ### **Sabrina Carpenter**
-![sabrina](https://github.com/user-attachments/assets/4c73c5b5-397e-40d9-acbb-548209888a45)
+![sabrina-2](https://github.com/user-attachments/assets/9fa20260-c838-4223-b210-8642ddc22d15)
 > Following the release of “Drivers License” in January 2021, the High School Musical: The Musical: The Series actress seemingly started the first love triangle of 2021, and the internet was shook. At the time, fans were convinced that the songstress shaded her rumored ex-boyfriend and costar, and his new girlfriend, Sabrina. Although their relationship was never confirmed, HSMTMTS viewers were convinced that Olivia and Joshua were more than friends when the show premiered in November 2019. With “Drivers License,” the former Disney Channel star dropped a few hints that things were less than perfect between her and Joshua.
 -----------
 
