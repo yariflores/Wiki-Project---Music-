@@ -1,5 +1,5 @@
-| [Bachata](bachata.md)    | [Ballet](ballet.md)   | [Ballroom](ballroom.md) | [BreakDancing](breakdancing.md) | [Jazz](jazz.md)    | [Jarabe Tapatio](jarabeTapatio.md)  |
-| -------- |-------| -----| -------- |-------| -----|
+| [Bachata](bachata.md)    | [Ballet](ballet.md)   | [Ballroom](ballroom.md) | [BreakDancing](breakdancing.md) | [Jazz](jazz.md)    | [Jarabe Tapatio](jarabeTapatio.md)  | [Main Music](music.md)
+| -------- |-------| -----| -------- |-------| -----|----|
 
 # **History Dance**
 
