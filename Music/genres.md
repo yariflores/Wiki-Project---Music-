@@ -5,7 +5,7 @@
 | Sub Topic: |
 |-------|
 | [Regional Mexican](regional-mexican.md)| 
-| [Jazz](jazz.md) |
+| [Jazz](jazzGenre.md) |
 | [Latin Pop](latin-pop.md) |
 
 ___
