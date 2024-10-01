@@ -65,4 +65,6 @@ ___
 
 ---
 
-source: [Wikipedia](https://en.wikipedia.org/wiki/Regional_Mexican)
+source:
+- [Wikipedia](https://en.wikipedia.org/wiki/Regional_Mexican)
+- [AP News](https://apnews.com/article/regional-mexican-music-grammys-3d2093f2dd3775912a0d3c95df1e2aa4)
