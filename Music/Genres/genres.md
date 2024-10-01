@@ -15,6 +15,7 @@ ___
 ## Time Line:
 - ### 1940s - 1960s: Rise of Mariachi
     - Pedro Infante was one of many who helped popularize the genre in the 1950s during the Golden Age of Mexican Cinema.
+    - Mariachi is an ensemble of musicians that typically play ranchera, the regional Mexican music dating back to at least the 18th century, evolving over time in the countryside of various regions of western Mexico.[1] The usual mariachi group today consists of as many as eight violins, two trumpets and at least one guitar, including a high-pitched vihuela and an acoustic bass guitar called a guitarrón, and all players taking turns singing lead and doing backup vocals.
 
         ![Image of Pedro Infante](pedroInfante.jpeg )
 
