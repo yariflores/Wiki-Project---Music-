@@ -18,7 +18,7 @@
 
 - **Bachata Moderna**, otherwise known as Modern Style, is the newest form of Bachata. It retains some of the traditional Bachata elements, but it is also heavily influenced by Tango and Bolero, among other Latin dance forms. The Modern Style relies heavily on crosses, but it does keep the typical Bachata hip movement on each four count.
 
-    ![modernadance](moderna.jpeg)
+   ![moderna](https://github.com/user-attachments/assets/ae6bb463-8e85-488a-80d6-2cf1dbbca5c3)
 
 - **The Traditional Style** is the type of Bachata that has spread across the globe. While the original Bachata is similarly romantic, it does not have such a strong emphasis on turn patterns. Dips are also heavily used in the Traditional Bachata Style, but that eternal hip movement on the fourth beat is consistent even here.
 
