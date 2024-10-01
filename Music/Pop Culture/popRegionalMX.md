@@ -35,7 +35,7 @@
 
 - ### Fuerza Regida & Grupo Frontera's "Bebe Dame"
     - #### On the Hot 100: No. 91 debut, Jan. 7, 2023
-[![Watch the video](fuerzaRegida.webp)]((https://www.youtube.com/watch?v=Oie--p6YqJo)
+[![Watch the video](fuerzaRegida.webp)](https://www.youtube.com/watch?v=Oie--p6YqJo)
 
 ---
 
