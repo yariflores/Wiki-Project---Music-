@@ -1,13 +1,6 @@
 | [Music](music.md) | [Pop Culture](pop-culture.md)| [Musicians](musicians.md) | [Instruments](instruments.md) | [Dance](dance.md) |
 | -------- | ------- | ------- | ------ | -------- |
 
-
-| Sub Topic: |
-|-------|
-| [Regional Mexican](regional-mexican.md)| 
-| [Jazz](jazzGenre.md) |
-| [Latin Pop](latin-pop.md) |
-
 ___
 
 > ## What is a music genre?
@@ -16,8 +9,7 @@ ___
 
 | Genre | Explination|
 | ---------------| --------|
-| Jazz |  Is a broad style of music characterized by complex harmony, syncopated rhythms, and a heavy emphasis on improvisation.  |
-| Cumbia | Cumbia sonidera is a recent variant of Mexican Cumbia, it emerges as the combination of Colombian cumbia, adapted and recorded by Mexican groups mixing it with the sounds and electronic effects of DJs. |
+| [Jazz](jazzGenre.md) |  Is a broad style of music characterized by complex harmony, syncopated rhythms, and a heavy emphasis on improvisation.  |
 ___
 
 
@@ -26,8 +18,8 @@ ___
 
 | Sub-Genre | Explination|
 | ---------------| --------|
-| Regional Mexican  | Refers collectively to the regional subgenres of the country music of Mexico and its derivatives from the Southwestern United States. Each subgenre is representative of a certain region and its popularity also varies by regions. |
-| Latin Pop | Is a pop music subgenre that is a fusion of US–style music production with Latin music genres from anywhere in Latin America and Spain. Originating with Spanish-speaking musicians. |
+| [Regional Mexican](regional-mexican.md)  | Refers collectively to the regional subgenres of the country music of Mexico and its derivatives from the Southwestern United States. Each subgenre is representative of a certain region and its popularity also varies by regions. |
+| [Latin Pop](latin-pop.md) | Is a pop music subgenre that is a fusion of US–style music production with Latin music genres from anywhere in Latin America and Spain. Originating with Spanish-speaking musicians. |
 
 ### Music has been divided into many different genres throughout history, following a range of criteria. Streaming service Spotify has around 1,300 music genres, helping to break down millions of songs with a range of sounds, patterns and structures. 
 
