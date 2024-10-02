@@ -8,9 +8,9 @@
 ## POPULAR NOW
 
 ### Top 10 Music Artists of 2024
-| Rank | Artist | 
-| ---- | ------ |
-| 1 | Travis Scott |
+| Rank | Artist | Profile |
+| ---- | ------ | ------- |
+| 1 | Travis Scott | ![travis-scott](https://github.com/user-attachments/assets/d16a5048-902a-4ef9-a9f0-9bad7428808a) |
 | 2 | Sabrina Carpenter |
 | 3 | Chappell Roan |
 | 4 | Taylor Swift |
