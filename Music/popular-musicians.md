@@ -1,3 +1,6 @@
+| [Musicians](musicians.md) | [Music Artists](music-artists.md) | [Famous Musicians](popular-musicians.md) |
+| --- | --- | --- |
+
 # Famous Musicians in History
 > As the popularity of different genres has become more widespread, listeners have been blessed with a huge explosion of diverse talents and bold originality, as the most influential musicians have blazed their own trail across the pop culture landscape.
 
