@@ -37,6 +37,13 @@ _______________
 
 Following the release of “Drivers License” in January 2021, the High School Musical: The Musical: The Series actress seemingly started the first love triangle of 2021, and the internet was shook. At the time, fans were convinced that the songstress shaded her rumored ex-boyfriend and costar, and his new girlfriend, Sabrina. Although their relationship was never confirmed, HSMTMTS viewers were convinced that Olivia and Joshua were more than friends when the show premiered in November 2019. With “Drivers License,” the former Disney Channel star dropped a few hints that things were less than perfect between her and Joshua.
 _______________
+### **CHVRCHES**
+![chvrches](https://github.com/user-attachments/assets/a0bdda43-e4cf-4705-ae66-15dbf7161d8c)
+
+a Scottish electronic band from Glasgow, formed in 2011. The group consists of Lauren Mayberry (lead vocals, occasionally synths and samplers), Iain Cook (synths, guitar, bass, vocals) and Martin Doherty (synths, samplers, vocals). The group's debut album, The Bones of What You Believe, was released on 20 September 2013. Previously, Mayberry was a member of the bands Boyfriend/Girlfriend and Blue Sky Archives. Mayberry is a trained drummer and also did a four-year law degree, followed by a Masters in journalism. Cook was a member of Aereogramme and The Unwinding Hours and also wrote music for film and TV. Doherty was a live member of The Twilight Sad. According to Mayberry, "Iain and Martin went to university together so they've known each other for quite a long time". The band started in October 2011 as a studio project between the long time friends Iain Cook and Martin Doherty. Cook already knew Lauren Mayberry from working with Blue Sky Archives and suggested her as a potential vocalist for the project.
+
+*Fun Fact: Kilpatrick is kind of obsessed with this band right now!*
+
 ## Drama in the Music Industry: Love Triangles
 
 ### Justin Bieber: Selena Gomez Vs. Hailey Baldwin
@@ -58,6 +65,6 @@ Many thought the drama started because Hailey was jealous of Selena and Justin's
 
 **Marriage:** Nodal and Aguilar married in a private ceremony in Mexico. 
 
-##### *Famous Angela Quotes*
+##### *Famous Angela Quote*
 "Soy fan de su relacion" - *"I'm a fan of your relationship"*
 "
