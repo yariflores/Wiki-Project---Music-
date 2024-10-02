@@ -30,7 +30,7 @@
 
 ![taylor-2](https://github.com/user-attachments/assets/b5c22042-fb46-430d-858b-fff4b2be363d)
 
-*Quote from Taylow Swift's song "Breathe"*
+*Quote from Taylor Swift's song "Breathe"*
 _______________
 ### **Sabrina Carpenter**
 ![sabrina-2](https://github.com/user-attachments/assets/9fa20260-c838-4223-b210-8642ddc22d15)
