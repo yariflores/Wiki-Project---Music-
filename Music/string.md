@@ -1,5 +1,5 @@
-| [Instruments](instruments.md) |
-|------|
+| [Instruments](instruments.md) | [Bass](bass.md) | [Keyboard](keyboard.md) |  [Percussion](percussion.md) | [String](string.md) | [Woodwind](woodwind.md) |
+| --- | --- | --- | --- | --- | --- |
 
 # String Instruments
 
