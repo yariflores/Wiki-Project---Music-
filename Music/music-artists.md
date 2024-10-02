@@ -19,7 +19,7 @@
 | 7 | Post Malone | ![post malone](https://github.com/user-attachments/assets/b97ce82d-c8de-48fd-8a2e-fa57112a7907) |
 | 8 | Eminem | ![eminem](https://github.com/user-attachments/assets/85b77947-89a6-421f-9065-970cd59dbd48) |
 | 9 | Teddy Swims | 
-| 10 | Luke Combs | ![luke combs](https://github.com/user-attachments/assets/c542b111-926f-437b-aedd-2b0382e0c1f8) |
+| 10 | Luke Combs |![luke combs](https://github.com/user-attachments/assets/f59991d9-139d-4335-bbce-d489d92424c4) |
 
 ## ***Highlights***
 
