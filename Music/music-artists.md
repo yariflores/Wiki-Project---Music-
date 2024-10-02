@@ -11,7 +11,7 @@
 | Rank | Artist | Profile |
 | ---- | ------ | ------- |
 | 1 | Travis Scott | ![travis-scott](https://github.com/user-attachments/assets/d16a5048-902a-4ef9-a9f0-9bad7428808a) |
-| 2 | Sabrina Carpenter | ![sabrina](https://github.com/user-attachments/assets/21edca00-2b56-484c-bdd7-0c8359494f04) |
+| 2 | Sabrina Carpenter | ![carpenter-2](https://github.com/user-attachments/assets/d8175e82-4401-488c-9079-8278bceb5c67) |
 | 3 | Chappell Roan |
 | 4 | Taylor Swift |
 | 5 | Morgan Wallen |
