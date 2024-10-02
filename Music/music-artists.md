@@ -14,10 +14,10 @@
 | 2 | Sabrina Carpenter | ![carpenter-2](https://github.com/user-attachments/assets/d8175e82-4401-488c-9079-8278bceb5c67) |
 | 3 | Chappell Roan | ![chappell roan](https://github.com/user-attachments/assets/4d6521d8-f496-4b79-92be-7dce46322997) |
 | 4 | Taylor Swift | ![taylor swift](https://github.com/user-attachments/assets/d90ec091-0cb1-45e3-adb2-97ee942fc500) | 
-| 5 | Morgan Wallen | ![0-KbQYDyJIdaCQI7ej](https://github.com/user-attachments/assets/85b77947-89a6-421f-9065-970cd59dbd48)
-| 6 | Zach Bryan |
-| 7 | Post Malone | ![post malone](https://github.com/user-attachments/assets/a5faf4bd-c689-44da-b571-d700c263d442) |
-| 8 | Eminem | ![eminem](https://github.com/user-attachments/assets/3393dad6-524d-4c07-9af3-92c5b8d20e3a) |
+| 5 | Morgan Wallen | ![morgan wallen](https://github.com/user-attachments/assets/f6a936d8-450b-44b2-8324-5771922bb98d) |
+| 6 | Zach Bryan | 
+| 7 | Post Malone | ![post malone](https://github.com/user-attachments/assets/b97ce82d-c8de-48fd-8a2e-fa57112a7907) |
+| 8 | Eminem | ![eminem](https://github.com/user-attachments/assets/85b77947-89a6-421f-9065-970cd59dbd48) |
 | 9 | Teddy Swims | 
 | 10 | Luke Combs | ![luke combs](https://github.com/user-attachments/assets/c542b111-926f-437b-aedd-2b0382e0c1f8) |
 
