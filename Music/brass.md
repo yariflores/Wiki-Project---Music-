@@ -1,5 +1,5 @@
-| [Instruments](instruments.md) |
-|------|
+| [Instruments](instruments.md) | [Bass](bass.md) | [](pop-culture.md) |  [Musicians](musicians.md) | [Instruments](instruments.md) | [Dance](dance.md) |
+| --- | --- | --- | --- | --- | --- |
 
 # Brass Instruments
 
