@@ -1,4 +1,5 @@
 # Famous Musicians in History
+> As the popularity of different genres has become more widespread, listeners have been blessed with a huge explosion of diverse talents and bold originality, as the most influential musicians have blazed their own trail across the pop culture landscape.
 
 ## Louis Armstrong
 ![Louis-playing](https://www.louisarmstronghouse.org/wp-content/uploads/2017/01/biography-2.png)
@@ -26,12 +27,4 @@ In 1922, King Oliver sent for Armstrong to join his band in Chicago. Armstrong a
 **December 12, 1915 - May 14, 1998**
 > Singer and actor Frank Sinatra rose to fame singing big band numbers. In the 1940s and 1950s, he had a dazzling array of hit songs and albums and went on to appear in dozens of films, winning a supporting actor Oscar for his role in From Here to Eternity. He left behind a massive catalog of work that includes iconic tunes like "Love and Marriage," "Strangers in the Night," "My Way" and "New York, New York." He died on May 14, 1998, in Los Angeles, California. Francis Albert "Frank" Sinatra was born on December 12, 1915, in Hoboken, New Jersey. The only child of Sicilian immigrants, a teenaged Sinatra decided to become a singer after watching Bing Crosby perform in the mid-1930s. He'd already been a member of the glee club in his high school and began to sing at local nightclubs. Radio exposure brought him to the attention of bandleader Harry James, with whom Sinatra made his first recordings, including "All or Nothing at All." In 1940, Tommy Dorsey invited Sinatra to join his band. After two years of chart-topping success with Dorsey, Sinatra decided to strike out on his own. Between 1943 and 1946, Sinatra's solo career blossomed as the singer charted a slew of hit singles. The mobs of bobby-soxer fans Sinatra attracted with his dreamy baritone earned him such nicknames as "The Voice" and "The Sultan of Swoon." "It was the war years, and there was a great loneliness," recalled Sinatra, who was unfit for military service due to a punctured eardrum. "I was the boy in every corner drugstore who'd gone off, drafted to the war. That was all."
 
-lady gaga
 
-britney spears
-
-alicia keys
-
-rihanna
-
-p diddy lawsuit
