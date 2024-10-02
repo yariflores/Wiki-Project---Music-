@@ -1,5 +1,5 @@
-| [Instruments](instruments.md) |
-|------|
+| [Instruments](instruments.md) | [Bass](bass.md) | [Keyboard](keyboard.md) |  [Percussion](percussion.md) | [String](string.md) | [Woodwind](woodwind.md) |
+| --- | --- | --- | --- | --- | --- |
 
 # Keyboard Instruments
 > A keyboard instrument is a musical instrument played using a keyboard, a row of levers which are pressed by the fingers. The most common of these are the piano, organ, and various electronic keyboards, including synthesizers and digital pianos.
