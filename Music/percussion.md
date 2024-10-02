@@ -1,5 +1,5 @@
-| [Instruments](instruments.md) |
-|------|
+| [Instruments](instruments.md) | [Bass](bass.md) | [Keyboard](keyboard.md) |  [Percussion](percussion.md) | [String](string.md) | [Woodwind](woodwind.md) |
+| --- | --- | --- | --- | --- | --- |
 
 # Percussion Instruments
 > A percussion instrument is a musical instrument that is sounded by being struck or scraped by a beater including attached or enclosed beaters or rattles struck, scraped or rubbed by hand or struck against another similar instrument.
