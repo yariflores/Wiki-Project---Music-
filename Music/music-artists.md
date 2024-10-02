@@ -1,5 +1,5 @@
-| [Musicians](musicians.md) |
-| ----- |
+| [Musicians](musicians.md) | [Music Artists](music-artists.md) | [Famous Musicians](popular-musicians.md) |
+| --- | --- | --- |
 
 # Famous Music Artists
 
