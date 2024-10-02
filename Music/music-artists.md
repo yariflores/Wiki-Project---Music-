@@ -13,7 +13,7 @@
 | 1 | Travis Scott | ![travis-scott](https://github.com/user-attachments/assets/d16a5048-902a-4ef9-a9f0-9bad7428808a) |
 | 2 | Sabrina Carpenter | ![carpenter-2](https://github.com/user-attachments/assets/d8175e82-4401-488c-9079-8278bceb5c67) |
 | 3 | Chappell Roan | ![chappell roan](https://github.com/user-attachments/assets/4d6521d8-f496-4b79-92be-7dce46322997) |
-| 4 | Taylor Swift | ![taylor swift](https://github.com/user-attachments/assets/28aca8c6-08c8-42c2-8164-ce4e4332501a) | 
+| 4 | Taylor Swift | ![a40546d93cc9dd4be3fee2c9d4a13ff9](https://github.com/user-attachments/assets/d90ec091-0cb1-45e3-adb2-97ee942fc500) | 
 | 5 | Morgan Wallen | ![morgan wallen](https://github.com/user-attachments/assets/fcb41851-9e32-45d0-bab0-acc0cee3d7db)
 | 6 | Zach Bryan |
 | 7 | Post Malone | ![post malone](https://github.com/user-attachments/assets/a5faf4bd-c689-44da-b571-d700c263d442) |
